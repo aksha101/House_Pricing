@@ -1,4 +1,4 @@
-  ADVANCED REGRESSION
+#ADVANCED REGRESSION#
 
 SURPRISE HOUSING
 
@@ -22,7 +22,7 @@ The steps followed to solve this problem are:
 4. Model building
 5. Model evaluation
 
-##Concluion:
+##Conclusion:
 
 These variables are significant in predicting the price of a house :
 BsmtFinSF2 : Type 2 finished square feet , 
